@@ -15,7 +15,7 @@
 # ======================================
 
   OS="`uname -s`"
-  Xcode_strict="true"
+  Xcode_strict="false"
   Ascii_art_mode="true"
   # source some ascii-art, make it moar fun
   source /dev/stdin <<< "$(curl --insecure https://raw.githubusercontent.com/jruffing/laptop/bsc-customization/ascii_art)"
